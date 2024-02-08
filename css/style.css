@@ -5,9 +5,9 @@
     position:absolute;
     display:block;
     padding:0px 0;
-    border:2px solid #a55000;
+    border:2px solid #13717c;
     border-radius:8px;
-    box-shadow:1px 1px 2px #CE6400;
+    box-shadow:1px 1px 2px #1083ac;
     width: 200px;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .context-menu-items a:hover{
-    background: #a55000;
+    background: #13717c;
 }
 
 .canvas-tooltip-info {
