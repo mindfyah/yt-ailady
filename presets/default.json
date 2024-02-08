@@ -29,12 +29,12 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
+    "default_prompt": "tattoo of",
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Enhance",
-        "Fooocus Sharp"
+        "Fooocus youta"
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
